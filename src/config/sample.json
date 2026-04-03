@@ -1,0 +1,64 @@
+{
+    "id": "project-2",
+    "title": "FitTrack Pro",
+    "description": "A comprehensive fitness tracking application with workout logging, progress analytics, goal setting, and social features. Helps users stay consistent with their health journey.",
+    "techStack": [
+        "React Native",
+        "TypeScript",
+        "Firebase",
+        "Chart.js"
+    ],
+    "image": "/images/project-2.png",
+    "liveUrl": "https://fittrack-pro.vercel.app",
+    "repoUrl": "https://github.com/saikumar/fittrack-pro"
+},
+{
+    "id": "project-3",
+    "title": "ShopNest E-Commerce",
+    "description": "A modern e-commerce platform with product discovery, smart search, cart management, and secure checkout. Features a recommendation engine powered by user behavior analytics.",
+    "techStack": [
+        "Next.js",
+        "Stripe",
+        "MongoDB",
+        "Redis",
+        "Tailwind CSS"
+    ],
+    "image": "/images/project-3.png",
+    "liveUrl": "https://shopnest-demo.vercel.app",
+    "repoUrl": "https://github.com/saikumar/shopnest"
+},
+{
+    "id": "project-4",
+    "title": "NexusAI Chat",
+    "description": "An intelligent conversational AI interface with context-aware responses, multi-turn dialogue, and document analysis capabilities. Powered by cutting-edge language models.",
+    "techStack": [
+        "Next.js",
+        "Python",
+        "FastAPI",
+        "OpenAI",
+        "WebSockets"
+    ],
+    "image": "/images/project-4.png",
+    "liveUrl": "https://nexus-ai.vercel.app",
+    "repoUrl": "https://github.com/saikumar/nexus-ai"
+},
+{
+    "company": "InnovateLab",
+    "role": "Full-Stack Developer",
+    "period": "Jun 2022 — Dec 2023",
+    "highlights": [
+        "Built a customer-facing dashboard using React and Node.js, serving 50K+ monthly active users",
+        "Implemented CI/CD pipelines with GitHub Actions, reducing release cycles from 2 weeks to 2 days",
+        "Optimized database queries resulting in a 40% improvement in API response times"
+    ]
+},
+{
+    "company": "PixelCraft Studios",
+    "role": "Frontend Developer",
+    "period": "Aug 2021 — May 2022",
+    "highlights": [
+        "Developed responsive web applications using React, achieving 98+ Lighthouse performance scores",
+        "Collaborated with UX designers to implement a design system used across 5 products",
+        "Reduced bundle size by 35% through code splitting and lazy loading strategies"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Inguva SatyaVenkata Sai Kumar",
+  "tagline": "Full-Stack Developer & Creative Technologist",
+  "bio": "Dynamic Front-End Developer with 1.7 years of experience specializing in React.js and Vue.js. Proven track record of building robust applications, including a full-cycle HRMS (Human Resource Management System) using the Frappe Framework. Adept at integrating secure authentication (Keycloak) and optimizing UI/UX. Passionate about creative technologies including Unreal Engine, video editing, and photography.",
+  "email": "inguvasaikumar@gmail.com",
+  "phone": "+91 9348455589",
+  "location": "Hyderabad, India",
+  "socials": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Satya1725",
+      "icon": "FiGithub"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/inguva-satyavenkata-sai-kumar-2219b2222/",
+      "icon": "FiLinkedin"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://x.com/saikumar179",
+      "icon": "RiTwitterXLine"
+    }
+  ],
+  "resumeFile": "/Inguva_SatyaVenkata_Sai_Kumar_Resume.pdf"
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "category": "Frontend",
+    "items": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "HTML/CSS",
+      "Framer Motion"
+    ]
+  },
+  {
+    "category": "Backend",
+    "items": [
+      "Node.js",
+      "Python",
+      "Express",
+      "FastAPI",
+      "GraphQL"
+    ]
+  },
+  {
+    "category": "Database",
+    "items": [
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Firebase"
+    ]
+  },
+  {
+    "category": "DevOps & Tools",
+    "items": [
+      "Docker",
+      "Git",
+      "AWS",
+      "CI/CD",
+      "Vercel"
+    ]
+  }
+]

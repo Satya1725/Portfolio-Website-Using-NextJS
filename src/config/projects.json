@@ -1,0 +1,33 @@
+[
+  {
+    "id": "project-1",
+    "title": "Analytics Dashboard",
+    "description": "A real-time analytics platform with interactive charts, data visualization, and customizable widgets. Built for teams to monitor KPIs and make data-driven decisions at a glance.",
+    "techStack": [
+      "React",
+      "TypeScript",
+      "D3.js",
+      "Node.js",
+      "PostgreSQL"
+    ],
+    "image": "/images/project-1.png",
+    "liveUrl": "https://analytics-demo.vercel.app",
+    "repoUrl": "https://github.com/saikumar/analytics-dashboard"
+  },
+  {
+    "id": "project-2",
+    "title": "FilmBot – AI-Powered Movie Recommendation & Discovery Platform",
+    "description": "Engineered a full-stack AI movie assistant with a hybrid RAG system, utilizing FastAPI, Python, and a Qdrant vector database for semantic search and async TMDb data ingestion. Developed a dynamic React and TypeScript frontend featuring AI guardrails and fuzzy matching to render responsive chat UIs and data tables. Implemented system metric APIs for real-time CPU and GPU monitoring to ensure scalable deployment.",
+    "techStack": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Python",
+      "Qdrant",
+      "TMDb API"
+    ],
+    "image": "/images/project-filmbot.png",
+    "liveUrl": "https://filmbot-demo.vercel.app",
+    "repoUrl": "https://github.com/Satya1725/FilmBot"
+  }
+]

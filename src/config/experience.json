@@ -1,0 +1,13 @@
+[
+  {
+    "company": "NstarX Inc.",
+    "role": "Application Development Associate",
+    "period": "June 2024 — Present",
+    "highlights": [
+      "Designed and implemented responsive Front-End architectures using React.js and Vue.js, ensuring seamless user experiences",
+      "Integrated Keycloak for robust Authentication (AuthN) and Authorization (AuthZ), enhancing system security and user role management",
+      "Collaborated with cross-functional teams to optimize application performance and maintain code quality",
+      "Spearheaded the end-to-end development and deployment of a Human Resource Management System (HRMS) using Python, JavaScript, and the Frappe Framework"
+    ]
+  }
+]
