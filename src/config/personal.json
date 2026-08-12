@@ -1,7 +1,7 @@
 {
   "name": "Inguva SatyaVenkata Sai Kumar",
   "tagline": "Full-Stack Developer & Creative Technologist",
-  "bio": "Dynamic Front-End Developer with 1.7 years of experience specializing in React.js and Vue.js. Proven track record of building robust applications, including a full-cycle HRMS (Human Resource Management System) using the Frappe Framework. Adept at integrating secure authentication (Keycloak) and optimizing UI/UX. Passionate about creative technologies including Unreal Engine, video editing, and photography.",
+  "bio": "I am a Full Stack Developer with 2+ years of experience building AI-integrated web applications using Python, FastAPI, React.js, and Vue.js at NStarX. I architected GenAI Lab, a Micro Frontend platform for US enterprise client SHI, where multiple AI services including RAG, Multimodal AI, and Report Generator run independently with role-based access control and ArgoCD deployments, currently live in production. I also built real-time pod and cluster monitoring dashboards in Vue.js for the Digital Human project, shipped 20+ FastAPI REST APIs with response times under 200ms, and worked with AWS S3, EC2, and Lambda across projects. Outside of work, I independently built FilmBot, an AI movie assistant using a hybrid RAG pipeline and Qdrant vector database, which reflects my passion for building GenAI systems beyond my day job. I am currently looking for Full Stack Python Developer roles where I can keep building real, scalable, production-grade systems.",
   "email": "inguvasaikumar@gmail.com",
   "phone": "+91 9348455589",
   "location": "Hyderabad, India",
@@ -13,7 +13,7 @@
     },
     {
       "platform": "LinkedIn",
-      "url": "https://www.linkedin.com/in/inguva-satyavenkata-sai-kumar-2219b2222/",
+      "url": "https://www.linkedin.com/in/inguva-satyavenkata-sai-kumar",
       "icon": "FiLinkedin"
     },
     {
@@ -22,5 +22,5 @@
       "icon": "RiTwitterXLine"
     }
   ],
-  "resumeFile": "/Inguva_SatyaVenkata_Sai_Kumar_Resume.pdf"
+  "resumeFile": "/Developer_Sai_Kumar_Inguva.pdf"
 }
