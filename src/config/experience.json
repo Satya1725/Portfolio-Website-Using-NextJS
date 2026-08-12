@@ -1,13 +1,14 @@
 [
   {
     "company": "NstarX Inc.",
-    "role": "Application Development Associate",
+    "role": "Full Stack Python Developer",
     "period": "June 2024 — Present",
     "highlights": [
-      "Designed and implemented responsive Front-End architectures using React.js and Vue.js, ensuring seamless user experiences",
-      "Integrated Keycloak for robust Authentication (AuthN) and Authorization (AuthZ), enhancing system security and user role management",
-      "Collaborated with cross-functional teams to optimize application performance and maintain code quality",
-      "Spearheaded the end-to-end development and deployment of a Human Resource Management System (HRMS) using Python, JavaScript, and the Frappe Framework"
+      "Architected GenAI Lab, a Micro Frontend platform in React.js for US enterprise client SHI, where each AI service (RAG, Multimodal, Report Generator) has its own independent frontend and Python backend with ArgoCD-based deployments, currently live in production.",
+      "Built real-time pod and cluster monitoring dashboards in Vue.js for the Digital Human project using polling and server-sent event streams, showing live metrics, resource usage, and logs across all running services.",
+      "Designed and shipped 20+ REST APIs using FastAPI with response times under 200ms, and wrote unit and integration tests using pytest, unittest, and Jest to keep the codebase stable across releases.",
+      "Built a full-stack HRMS in Python and Frappe Framework serving 100+ users, working in a team of 2 and delivering all core modules on time using Git-based version control and Agile workflows.",
+      "Worked with AWS S3 for file storage, EC2 and Lambda for compute and event-based processing, and implemented role-based access control using Keycloak with OAuth 2.0 and OIDC across a FastAPI and React.js stack."
     ]
   }
 ]
