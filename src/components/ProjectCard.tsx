@@ -37,7 +37,7 @@ export default function ProjectCard({ project, index }: ProjectCardProps) {
           style={{ width: "100%", height: "100%", objectFit: "cover" }}
         />
         <div className="project-card-overlay">
-          <a
+          {/* <a
             href={project.liveUrl}
             target="_blank"
             rel="noopener noreferrer"
@@ -45,7 +45,7 @@ export default function ProjectCard({ project, index }: ProjectCardProps) {
             aria-label={`View ${project.title} live demo`}
           >
             <FiExternalLink />
-          </a>
+          </a> */}
           <a
             href={project.repoUrl}
             target="_blank"
