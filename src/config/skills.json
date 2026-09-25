@@ -14,9 +14,8 @@
     "items": [
       "Node.js",
       "Python",
-      "Express",
       "FastAPI",
-      "GraphQL"
+      "Flask"
     ]
   },
   {
@@ -24,8 +23,8 @@
     "items": [
       "PostgreSQL",
       "MongoDB",
-      "Redis",
-      "Firebase"
+      "Firebase",
+      "MySQL"
     ]
   },
   {

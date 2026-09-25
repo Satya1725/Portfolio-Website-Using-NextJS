@@ -1,22 +1,23 @@
 [
   {
     "id": "project-1",
-    "title": "Analytics Dashboard",
-    "description": "A real-time analytics platform with interactive charts, data visualization, and customizable widgets. Built for teams to monitor KPIs and make data-driven decisions at a glance.",
+    "title": "AI Resume Builder",
+    "description": "A smart, AI-powered resume builder that generates Dynamic Resume Templates by simply typing a style name like 'Professional', 'Casual', or 'Creative'. Features a built-in ATS Score Checker (with and without a Job Description) to help resumes pass applicant tracking systems. The Suggested Jobs feature searches across multiple job portals — Google Jobs, Naukri, Indeed, and more — to find best-fit roles and ranks them by match strength (Strong Match, Good Match, etc.). Also includes an AI Cover Letter Generator that auto-creates a personalized cover letter based on the Company Name, Role, and Job Description you provide.",
     "techStack": [
       "React",
       "TypeScript",
-      "D3.js",
-      "Node.js",
-      "PostgreSQL"
+      "Python",
+      "FastAPI",
+      "Gemini AI",
+      "Transformers"
     ],
     "image": "/images/project-1.png",
-    "liveUrl": "https://analytics-demo.vercel.app",
-    "repoUrl": "https://github.com/saikumar/analytics-dashboard"
+    "liveUrl": "",
+    "repoUrl": "https://github.com/Satya1725/AI-Resume-Builder.git"
   },
   {
     "id": "project-2",
-    "title": "FilmSense – AI-Powered Movie Discovery Platform",
+    "title": "FilmSense – A Movie Discovery Platform",
     "description": "FilmSense is a full stack movie discovery app that lets users search by Genre, Character, and Theme instead of just a title, using semantic search over a Qdrant vector database and Sentence Transformers embeddings. It includes a Movie Details page that pulls together overview, cast, ratings, and trailer data automatically, along with a live dashboard monitoring system resources. Built with FastAPI on the backend and React with TypeScript on the frontend, with fuzzy matching and guardrails to keep results accurate even with typos or vague input.",
     "techStack": [
       "React",
@@ -29,5 +30,19 @@
     "image": "/images/project-filmbot.png",
     "liveUrl": "https://filmbot-demo.vercel.app",
     "repoUrl": "https://github.com/Satya1725/FilmBot"
+  },
+  {
+    "id": "project-3",
+    "title": "KeyCloak - Authenitcation and Authorization Tool",
+    "description": "A proof-of-concept demonstrating a complete authentication and authorization workflow using Keycloak as the Identity and Access Management (IAM) server, FastAPI as the backend with protected routes, and Vue 3 (Vite) as the frontend integrated with the Keycloak JS adapter. Implements OAuth2.0 and OpenID Connect (OIDC) login flow, role-based access control (RBAC), and secure JWT-based API calls from the frontend to the backend. The FastAPI backend validates tokens by verifying the signature against Keycloak's public keys, checking issuer, audience, and user roles before granting access. All three services — Keycloak, FastAPI, and Vue 3 — run in isolated Docker containers via Docker Compose, making the entire stack easy to spin up locally and ready to extend into microservices or enterprise SSO integrations.",
+    "techStack": [
+      "Vue.js",
+      "FastAPI",
+      "Python",
+      "Docker"
+    ],
+    "image": "/images/project-keycloak.png",
+    "liveUrl": "",
+    "repoUrl": "https://github.com/Satya1725/KeyCloack"
   }
 ]
