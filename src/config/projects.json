@@ -13,7 +13,7 @@
     ],
     "image": "/images/project-1.png",
     "liveUrl": "",
-    "repoUrl": "https://github.com/Satya1725/ai-resume-builder"
+    "repoUrl": "https://github.com/Satya1725/AI-Resume-Builder.git"
   },
   {
     "id": "project-2",
@@ -30,5 +30,19 @@
     "image": "/images/project-filmbot.png",
     "liveUrl": "https://filmbot-demo.vercel.app",
     "repoUrl": "https://github.com/Satya1725/FilmBot"
+  },
+  {
+    "id": "project-3",
+    "title": "KeyCloak - Authenitcation and Authorization Tool",
+    "description": "A proof-of-concept demonstrating a complete authentication and authorization workflow using Keycloak as the Identity and Access Management (IAM) server, FastAPI as the backend with protected routes, and Vue 3 (Vite) as the frontend integrated with the Keycloak JS adapter. Implements OAuth2.0 and OpenID Connect (OIDC) login flow, role-based access control (RBAC), and secure JWT-based API calls from the frontend to the backend. The FastAPI backend validates tokens by verifying the signature against Keycloak's public keys, checking issuer, audience, and user roles before granting access. All three services — Keycloak, FastAPI, and Vue 3 — run in isolated Docker containers via Docker Compose, making the entire stack easy to spin up locally and ready to extend into microservices or enterprise SSO integrations.",
+    "techStack": [
+      "Vue.js",
+      "FastAPI",
+      "Python",
+      "Docker"
+    ],
+    "image": "/images/project-keycloak.png",
+    "liveUrl": "",
+    "repoUrl": "https://github.com/Satya1725/KeyCloack"
   }
 ]
