@@ -5,7 +5,7 @@ import { FiDownload } from "react-icons/fi";
 
 export default function Resume() {
   return (
-    <section className="section" id="resume">
+    <section className="section" id="experience">
       <div className="container">
         <SectionHeading
           title="Experience"
